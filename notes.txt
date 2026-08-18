@@ -2,3 +2,5 @@ this is boring
 Master added this line
 feature-branch added this line
 master moved forward
+rebase-demo change
+8d17de1 (new rebase)
